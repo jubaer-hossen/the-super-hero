@@ -7,7 +7,7 @@
         "company": "Placerat Augue Sed PC",
         "cost": 5816,
         "key": "0.27",
-        "pic": ""
+        "pic": "https://randomuser.me/api/portraits/men/29.jpg"
     },
     {
         "name": "Hasad Bowman",
@@ -16,7 +16,8 @@
         "email": "sed.eu@nuncmauriselit.net",
         "company": "Lectus Incorporated",
         "cost": 6865,
-        "key": "82.50"
+        "key": "82.50",
+        "pic": "https://randomuser.me/api/portraits/men/47.jpg"
     },
     {
         "name": "Herman Rollins",
@@ -25,7 +26,8 @@
         "email": "elit@lacus.ca",
         "company": "Nisi LLC",
         "cost": 3238,
-        "key": "98.87"
+        "key": "98.87",
+        "pic": "https://randomuser.me/api/portraits/men/46.jpg"
     },
     {
         "name": "Jillian Larson",
@@ -34,7 +36,8 @@
         "email": "vestibulum.nec@eutellus.co.uk",
         "company": "Sed Pede Company",
         "cost": 4330,
-        "key": "44.03"
+        "key": "44.03",
+        "pic": "https://randomuser.me/api/portraits/men/45.jpg"
     },
     {
         "name": "Simon Walton",
@@ -43,7 +46,8 @@
         "email": "adipiscing.elit@vestibulummassa.co.uk",
         "company": "Nullam Vitae Ltd",
         "cost": 3005,
-        "key": "7.54"
+        "key": "7.54",
+        "pic": "https://randomuser.me/api/portraits/men/44.jpg"
     },
     {
         "name": "Wylie Roberson",
@@ -52,7 +56,8 @@
         "email": "sed.pharetra@et.net",
         "company": "Commodo Ltd",
         "cost": 2216,
-        "key": "41.09"
+        "key": "41.09",
+        "pic": "https://randomuser.me/api/portraits/men/43.jpg"
     },
     {
         "name": "Derek Bryan",
@@ -61,7 +66,8 @@
         "email": "fringilla.mi.lacinia@dolor.org",
         "company": "Lacus Ut Nec PC",
         "cost": 5021,
-        "key": "89.58"
+        "key": "89.58",
+        "pic": "https://randomuser.me/api/portraits/men/42.jpg"
     },
     {
         "name": "Ina Daugherty",
@@ -70,7 +76,8 @@
         "email": "auctor.nunc@malesuadavel.edu",
         "company": "Nulla Integer LLC",
         "cost": 4371,
-        "key": "76.13"
+        "key": "76.13",
+        "pic": "https://randomuser.me/api/portraits/men/41.jpg"
     },
     {
         "name": "Isaac Mcmahon",
@@ -79,7 +86,8 @@
         "email": "mattis.semper@ligulanullamenim.co.uk",
         "company": "Nec Ante Incorporated",
         "cost": 7553,
-        "key": "87.44"
+        "key": "87.44",
+        "pic": "https://randomuser.me/api/portraits/men/40.jpg"
     },
     {
         "name": "Tarik Burns",
@@ -88,7 +96,8 @@
         "email": "etiam.imperdiet@loremipsum.org",
         "company": "Molestie In Tempus Industries",
         "cost": 1966,
-        "key": "56.81"
+        "key": "56.81",
+        "pic": "https://randomuser.me/api/portraits/men/38.jpg"
     },
     {
         "name": "Evelyn Duncan",
@@ -97,7 +106,8 @@
         "email": "venenatis@dolortempus.edu",
         "company": "Lectus Cum LLP",
         "cost": 9975,
-        "key": "39.70"
+        "key": "39.70",
+        "pic": "https://randomuser.me/api/portraits/men/37.jpg"
     },
     {
         "name": "Quintessa Estrada",
@@ -106,7 +116,8 @@
         "email": "morbi.neque@donec.com",
         "company": "Torquent Per Foundation",
         "cost": 3107,
-        "key": "29.96"
+        "key": "29.96",
+        "pic": "https://randomuser.me/api/portraits/men/36.jpg"
     },
     {
         "name": "Cassandra Howell",
@@ -115,7 +126,8 @@
         "email": "dui@vitaeorciphasellus.com",
         "company": "Ante Vivamus PC",
         "cost": 5526,
-        "key": "66.47"
+        "key": "66.47",
+        "pic": "https://randomuser.me/api/portraits/men/35.jpg"
     },
     {
         "name": "Lani Leonard",
@@ -124,7 +136,8 @@
         "email": "nulla.tincidunt@quamcurabitur.ca",
         "company": "Mi Limited",
         "cost": 8574,
-        "key": "86.89"
+        "key": "86.89",
+        "pic": "https://randomuser.me/api/portraits/men/34.jpg"
     },
     {
         "name": "Timothy Snow",
@@ -133,7 +146,8 @@
         "email": "urna.suscipit@metusaeneansed.com",
         "company": "In Aliquet Lobortis Ltd",
         "cost": 7687,
-        "key": "38.04"
+        "key": "38.04",
+        "pic": "https://randomuser.me/api/portraits/men/33.jpg"
     },
     {
         "name": "Quail Higgins",
@@ -142,7 +156,8 @@
         "email": "placerat@enim.com",
         "company": "Ante Bibendum Ullamcorper LLC",
         "cost": 1879,
-        "key": "41.50"
+        "key": "41.50",
+        "pic": "https://randomuser.me/api/portraits/men/32.jpg"
     },
     {
         "name": "Harrison Eaton",
@@ -151,7 +166,8 @@
         "email": "ullamcorper@vestibulumut.com",
         "company": "Donec Non Institute",
         "cost": 6935,
-        "key": "56.35"
+        "key": "56.35",
+        "pic": "https://randomuser.me/api/portraits/men/31.jpg"
     },
     {
         "name": "Dacey Hurst",
@@ -160,6 +176,7 @@
         "email": "orci@tortornibh.com",
         "company": "Quisque Fringilla Foundation",
         "cost": 2452,
-        "key": "70.09"
+        "key": "70.09",
+        "pic": "https://randomuser.me/api/portraits/men/30.jpg"
     }
 ]

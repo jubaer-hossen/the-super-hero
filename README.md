@@ -4,7 +4,7 @@ My live website link: [click hare](https://elegant-heyrovsky-17ea4f.netlify.app/
 
 ## About My Site
 
-this web site make for build a powerful business team.
+This web site make for build a powerful business team.
 
 ### How to work this site?
 
