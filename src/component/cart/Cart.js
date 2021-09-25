@@ -12,7 +12,7 @@ const Cart = props => {
         <div className="bg-primary ps-3 pe-5 py-5 ms-3 text-white rounded position-fixed">
             <h3>Total Company: {cart.length}</h3>
             <h3>Total Cost: ${total}</h3>
-            <h3> Companies name: {props.company}</h3>
+            <h3 className="text-center"> Companies name: {props.company}</h3>
         </div>
     );
 };
