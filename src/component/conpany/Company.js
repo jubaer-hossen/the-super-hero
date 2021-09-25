@@ -6,7 +6,7 @@ const Company = props => {
 
     return (
         <div className="col">
-            <div className="card h-100">
+            <div className="card h-100 shadow">
                 <img src={pic} className="card-img-top" alt="..." />
                 <div className="card-body">
                     <h3 className="card-title text-center">
@@ -18,16 +18,16 @@ const Company = props => {
                         <p>Email: {email}</p>
                         <h4>Cost: ${cost}</h4>
                     </div>
-                    <div className="d-flex justify-content-center  fw-bold mt-3">
-                        <button
-                            onClick={() => props.handleAddToCart(props.company)}
-                            type="button"
-                            className="btn btn-warning"
-                        >
-                            <i className="fas fa-shopping-cart"></i>
-                            Add To Cart
-                        </button>
-                    </div>
+                </div>
+                <div className="d-flex justify-content-center fw-bold mb-4">
+                    <button
+                        onClick={() => props.handleAddToCart(props.company)}
+                        type="button"
+                        className="btn btn-warning"
+                    >
+                        <i className="fas fa-shopping-cart"></i>
+                        Add To Cart
+                    </button>
                 </div>
             </div>
         </div>
