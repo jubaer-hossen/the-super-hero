@@ -33,13 +33,8 @@ const Companies = () => {
                 ))}
             </div>
 
-            {/* total component */}
-
             <div className="ms-3 mt-5">
-                <Cart
-                    cart={cart}
-                    // company={companies.length}
-                ></Cart>
+                <Cart cart={cart}></Cart>
             </div>
         </div>
     );
