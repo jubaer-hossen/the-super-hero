@@ -7,7 +7,7 @@ const Cart = props => {
     let company1 = [];
     for (const company of cart) {
         total = total + company.cost;
-        company1 += company.company + ',' + ' ';
+        company1 += company.company + ', ';
     }
     // console.log(cart);
     return (
