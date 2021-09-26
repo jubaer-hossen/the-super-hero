@@ -10,13 +10,14 @@ const Company = props => {
                 <img src={pic} className="card-img-top" alt="..." />
                 <div className="card-body">
                     <h3 className="card-title text-center">
-                        Company: <br /> {company}
+                        Company: <br />
+                        <span className="fw-bolder"> {company}</span>
                     </h3>
-                    <div className="card-text text-center">
+                    <div className="card-text fw-bold mt-5">
                         <h5>Ceo: {name}</h5>
                         <p>Country: {country}</p>
                         <p>Email: {email}</p>
-                        <h4>Cost: ${cost}</h4>
+                        <h4 className="text-center">Cost: ${cost}</h4>
                     </div>
                 </div>
                 <div className="d-flex justify-content-center fw-bold mb-4">
